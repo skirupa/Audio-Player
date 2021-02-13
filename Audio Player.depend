@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1613193935 source:c:\users\indian\desktop\work now\projects\audio player\audio_player.cpp
+	<iostream>
+	<string.h>
+	<Windows.h>
+	<mmsystem.h>
+	<stdlib.h>
+	<conio.h>
+	<fstream>
+
+1613194587 source:c:\users\indian\desktop\work now\projects\audio player\main.cpp
+	<iostream>
+	<string.h>
+	<Windows.h>
+	<mmsystem.h>
+	<stdlib.h>
+	<conio.h>
+	<fstream>
+
+1613193935 c:\users\indian\desktop\work now\projects\audio player\audio_player.cpp
+	<iostream>
+	<string.h>
+	<Windows.h>
+	<mmsystem.h>
+	<stdlib.h>
+	<conio.h>
+	<fstream>
+
